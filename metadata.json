@@ -1,0 +1,6 @@
+{
+  "name": "FocusLock AI",
+  "description": "Steel-discipline focus app to combat phone addiction. Features hard lock, brain & movement challenges (squats, math), and AI-driven study photo verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
